@@ -4,7 +4,7 @@ A full-stack student record manager built with **Java, Spring Boot and MySQL**. 
 
 ## Live Demo
 
-- **Frontend:** https://rohitpal125.github.io/Student-Management-System-Java/
+- **Frontend:** https://debughubb.github.io/Student-Management-System-Java
 - **Backend API:** https://student-management-api-e13m.onrender.com/api/students
 
 The backend runs on free hosting, so the first load after a break can take up to a minute.
